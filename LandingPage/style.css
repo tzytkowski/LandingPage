@@ -1,0 +1,70 @@
+.top {
+    background-color: rgb(50, 50, 75);
+    margin: 0; 
+    padding: 0;
+    /* display: inline-block; */
+}
+
+
+
+.hlogo {
+    color: #F9FAF8;
+    display: inline;
+    text-align: left;
+    padding: 20px;
+    margin-top: 40px;
+
+}
+
+.links {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.linkone {
+    color: #F9FAF8;
+    display: inline;
+
+}
+
+.linktwo {
+    color: #F9FAF8;
+    display: inline;
+}
+
+.linkthree {
+    color: #F9FAF8;
+    display: inline;
+}
+
+.head {
+    color: #F9FAF8;
+}
+
+.headdescription {
+    color: #F9FAF8;
+}
+
+.signup {
+    color: #F9FAF8;
+    background-color: rgb(50, 127, 220);
+    width: 40px;
+    
+}
+
+.placeholder {
+    color: #F9FAF8;
+}
+
+.boxes {
+    border: black 2px ridge;
+    border-radius: 20%;
+    height: 40px;
+    width: 40px;
+    padding: 3%;
+    text-align: center;
+    display: 
+    flex: 1;
+
+
+}
